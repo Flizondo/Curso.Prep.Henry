@@ -105,7 +105,7 @@ Sabiendo esto, el flujo de trabajo básico en Git sería algo así:
 
 ## Lectura recomendada:
 
-* [Git: sitio oficial](https://git-scm.com/)
+* [Git: sitio oficial](https://gitv-scm.com/)
 * [Github: tutorial oficial](https://try.github.io/levels/1/challenges/1)
 * [Git: tutorial oficial](https://git-scm.com/docs/gittutorial)
 * [Terminal turorial](https://www.davidbaumgold.com/tutorials/command-line/)
